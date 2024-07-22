@@ -1,0 +1,43 @@
+baseURL: https://rtleader.github.io/
+languageCode: en-us
+title: ": )"
+publishDir: docs
+theme: gokarna
+enableRobotTxT: true
+enableEmoji: true
+
+params:
+  footer: Isaac Kim
+  description: "Little snippets of my life's journey put together"
+  avatarURL: "/images/IMG_5841.JPG"
+  avatarSize: "size-xl"
+  ShowBackToTopButton: true
+  showpostsonhomepage: recent
+
+menu:
+  main: 
+    - name: Home
+      url: "/"
+      pre: "<span data-feather='home'></span>"
+      post:
+      weight: 1
+    - name: Blog
+      url: /posts/
+      pre: "<span data-feather='book-open'></span>"
+      post: ""
+      weight: 2
+    - name: Class Notes
+      url: /notes/
+      pre: "<span data-feather='file-text'></span>"
+      post: ""
+      weight: 3
+    - name: Projects
+      url: /projects/
+      pre: "<span data-feather='zap'></span>"
+      post:
+
+markup:
+  tableOfContents:
+    startLevel: 1
+    endLevel: 3
+    ordered: false
