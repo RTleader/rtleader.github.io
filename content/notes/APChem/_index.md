@@ -20,32 +20,32 @@ The following notes were taken in 2023-2024 School year and should be noted to b
 
 - [Unit 1 Review](./unit1_review)
 
-- [Compound & Bond Type + Properties](./Bonds)
+- [Compound & Bond Type + Properties](./bonds)
 
-- [Lewis Dot Structures](./Lewis_Dot)
+- [Lewis Dot Structures](./lewis_Dot)
 
-- [Formal Charge + Resonance/Hybridization](./Formal_Charge)
+- [Formal Charge + Resonance/Hybridization](./formal_charge)
 
-- [Beer's Law](./Beers_Law)
+- [Beer's Law](./beers_law)
 
-- [Intermolecular Forces (IMFs)](./IMFs)
+- [Intermolecular Forces (IMFs)](./imfs)
 
-- [Photoelectric Effect (incomplete)](./Photoelectric_Effect)
+- [Photoelectric Effect (incomplete)](./photoelectric_effect)
 
-- [Types of Chemical Reactions](./Chemical_Reactions)
+- [Types of Chemical Reactions](./chemical_reactions)
 
-- [Kinetics](./Kinetics)
+- [Kinetics](./kinetics)
 
-- [Rate Law](./Rate_Law)
+- [Rate Law](./rate_law)
 
-- [Bond Enthalpy & Hess' Law](./Bond_Enthalpy)
+- [Bond Enthalpy & Hess' Law](./bond_enthalpy)
 
-- [Equilibrium, LeChatelier's Principle, Reaction Quotient Q, KSP & Molar Solubility](./Equilibrium)
+- [Equilibrium, LeChatelier's Principle, Reaction Quotient Q, KSP & Molar Solubility](./equilibrium)
 
-- [Acids & Bases + Henderson-Hasselbach](./Acids_Bases)
+- [Acids & Bases + Henderson-Hasselbach](./acids_bases)
 
-- [Buffers](./Buffers)
+- [Buffers](./buffers)
 
-- [Entropy, Enthalpy, & Gibbs Free Energy](./Entropy_Enthalpy_Gibbs)
+- [Entropy, Enthalpy, & Gibbs Free Energy](./entropy_enthalpy_gibbs)
 
-- [Electrolytic Cells](./Electrolytic_Cells)
+- [Electrolytic Cells](./electrolytic_cells)
