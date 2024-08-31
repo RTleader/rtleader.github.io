@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Unit 1 Review on : )</title>
-    <link>http://localhost:1313/notes/apchem/unit1_review/</link>
+    <link>https://rtleader.github.io/notes/apchem/unit1_review/</link>
     <description>Recent content in Unit 1 Review on : )</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/notes/apchem/unit1_review/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://rtleader.github.io/notes/apchem/unit1_review/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
