@@ -8,8 +8,7 @@ I enjoy taking personal notes during class and decorating them to have a complet
 
 ### [AP CHEM](./apchem/)
 
-### APUSH
-*coming soon!*
+### [APUSH](./apush/)
 
 ### AP BIO
 *coming soon!*

@@ -49,3 +49,6 @@ The following notes were taken in 2023-2024 School year and should be noted to b
 - [Entropy, Enthalpy, & Gibbs Free Energy](./entropy_enthalpy_gibbs)
 
 - [Electrolytic Cells](./electrolytic_cells)
+
+
+[Back to Notes](../)
