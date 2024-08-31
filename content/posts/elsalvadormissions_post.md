@@ -6,4 +6,4 @@ tags:
 description: A detailing of the things I saw, experienced, & realized in the missions field during my church's Medical Missions Trip to El Salvador June 2024.
 draft: true
 ---
-Our church recently went on a missions trip to El Salvador for a week 
+Our church recently went on a medical missions trip to El Salvador for a week.
