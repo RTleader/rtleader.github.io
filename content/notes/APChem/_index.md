@@ -22,7 +22,7 @@ The following notes were taken in 2023-2024 School year and should be noted to b
 
 - [Compound & Bond Type + Properties](./bonds)
 
-- [Lewis Dot Structures](./lewis_Dot)
+- [Lewis Dot Structures](./lewis_dot)
 
 - [Formal Charge + Resonance/Hybridization](./formal_charge)
 
