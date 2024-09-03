@@ -9,10 +9,11 @@ enableEmoji: true
 params:
   footer: Isaac Kim
   description: "Little snippets of my life's journey put together"
-  avatarURL: "/images/IMG_5841.JPG"
+  avatarURL: "/images/cover.JPG"
   avatarSize: "size-xl"
   ShowBackToTopButton: true
   showpostsonhomepage: recent
+  togglePreviousAndNextButtons: true
 
 menu:
   main: 
@@ -39,5 +40,5 @@ menu:
 markup:
   tableOfContents:
     startLevel: 1
-    endLevel: 3
+    endLevel: 4
     ordered: false
